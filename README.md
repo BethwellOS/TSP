@@ -16,4 +16,10 @@ To achieve this, we will utilize the geosphere package, which offers pre-built f
 I opted for the ompr TSP implementation, which proved to be both efficient and reliable*.
 However, to utilize the vectorized version of the algorithm, we must obtain the developmental version of ompr.
 
+# Result
+![Rplot](https://github.com/BethwellOS/TSP/assets/58303088/a7cdf744-112a-4f7c-b955-d3e8cfdf7a48)
+
+![image](https://github.com/BethwellOS/TSP/assets/58303088/4c2062f9-1364-4e72-ab57-e16c885e56d9)
+
+
  Make sure to check out ompr on github and follow the creator of this package on twitter,  @dirk_sch.
